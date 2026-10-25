@@ -1,0 +1,75 @@
+# files
+.~*
+.ipynb_checkpoints
+.lintr.R
+.Rhistory
+.RData
+.databricks
+.DS_Store
+.editorconfig
+.vscode
+*desktop.ini
+
+# file types
+*.py[codz]
+*.out
+*.objs*
+*.code-workspace
+*.db
+*.npy
+*.tar
+*.zip
+*.url
+*.pdf
+*.docx
+*.png
+
+# dirs
+*.egg-info/
+.venv/
+.quarto/
+__pycache__/
+build/
+dist/
+import/
+export/
+output/
+lo{g,gs}/
+*data/
+plo{t,ts}/
+fi{g,gs}/
+reference*/
+temp/
+bu/
+saved_state/
+
+# Experimental/test/temp/scratch
+*_TEST.{py,ipynb}
+*_TEMP.{py,ipynb}
+*_exp.ipynb
+*scratch.ods
+TEST*
+
+# secret
+secret*.*
+dir_names.*
+
+
+# Project-specific
+# ==============================================
+img*
+*.csv
+*.[xX][lL][sS]*
+!CA*_jbowen.pdf
+CA*_jbowen_files/
+
+
+
+
+
+
+
+
+
+# https://www.digitalocean.com/community/tools/glob
+# https://github.com/github/gitignore/blob/main/Python.gitignore
